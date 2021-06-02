@@ -52,7 +52,7 @@ hyperlink==17.3.1
 idna==2.6
 incremental==17.5.0
 kombu==4.1.0
-markdown2==2.3.4
+markdown2==2.4.0
 Mezzanine==4.2.3
 mistune==0.7.1
 mots-vides==2015.5.11
