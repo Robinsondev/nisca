@@ -9,7 +9,7 @@ billiard==3.5.0.3
 bleach==2.0.0
 boto==2.48.0
 Cartridge==0.12.0
-celery==4.1.0
+celery==5.2.2
 certifi==2017.7.27.1
 channels==1.1.6
 chardet==3.0.4
