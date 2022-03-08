@@ -34,7 +34,7 @@ django-mptt==0.8.7
 django-musette==0.3.2
 django-niji==0.1.0
 django-simple-pagination==1.1.8
-django-spirit==0.4.8
+django-spirit==0.12.3
 django-storages==1.6.5
 django-tagging==0.4.5
 django-taggit==0.22.1
